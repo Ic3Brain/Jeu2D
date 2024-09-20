@@ -1,0 +1,17 @@
+Principe du jeu : 
+
+Jeu 2D 
+
+1vs1 
+
+une équipe a gauche, une équipe a droite
+une base avec des hp qu'il faut détruire 
+
+Génération de gold 
+
+cd pour reposer un personnage
+
+Système récompense pour débloquer les autres personnages
+coffre de fin de niveau 3 stars etc 
+
+Système ia qui lance random les personnages
